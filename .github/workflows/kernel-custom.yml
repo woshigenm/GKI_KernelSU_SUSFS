@@ -32,7 +32,7 @@ on:
         type: choice
         options:
           - Official
-          #- Next
+          - Next
           - SukiSU
           - SukiSU(40726)
           - SukiSU(40548)
